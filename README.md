@@ -1,4 +1,4 @@
-# armadillo - high quality C++ linear algebra library
+# Armadillo - high quality C++ linear algebra library
 
 * Downloads: http://arma.sourceforge.net/download.html
 
