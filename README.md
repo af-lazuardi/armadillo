@@ -1,5 +1,4 @@
-# armadillo
-placeholder repo - official site at http://arma.sourceforge.net
+# armadillo - high quality C++ linear algebra library
 
 * Downloads: http://arma.sourceforge.net/download.html
 
