@@ -6,6 +6,8 @@
 
 * FAQ:  http://arma.sourceforge.net/faq.html
 
+* Source code repo: http://github.com/conradsnicta/armadillo-code
+
 ---
 
 # Overview
