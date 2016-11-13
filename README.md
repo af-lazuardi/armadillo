@@ -16,7 +16,7 @@
 
 * Also provides efficient wrappers for LAPACK, BLAS and ATLAS libraries, including high-performance versions such as Intel MKL, AMD ACML and OpenBLAS.
 
-* Useful for machine learning, pattern recognition, signal processing, bioinformatics, statistics, econometrics, etc.
+* Useful for machine learning, pattern recognition, signal processing, bioinformatics, statistics, finance, etc.
 
 ---
 
