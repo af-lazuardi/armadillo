@@ -1,10 +1,10 @@
 # Armadillo - high quality C++ linear algebra library
 
-* Downloads: http://arma.sourceforge.net/download.html
+* Download latest version: http://arma.sourceforge.net/download.html
 
 * API documentation:  http://arma.sourceforge.net/docs.html
 
-* FAQ:  http://arma.sourceforge.net/faq.html
+* Frequently Asked Questions:  http://arma.sourceforge.net/faq.html
 
 * Source code repo: http://github.com/conradsnicta/armadillo-code
 
