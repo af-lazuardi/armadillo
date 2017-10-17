@@ -1,4 +1,5 @@
 # Armadillo - high quality C++ linear algebra library
+[![status](http://joss.theoj.org/papers/4d6506e46a96659b74f48b51ef92fa93/status.svg)](http://joss.theoj.org/papers/4d6506e46a96659b74f48b51ef92fa93)
 
 * Download latest version: http://arma.sourceforge.net/download.html
 
