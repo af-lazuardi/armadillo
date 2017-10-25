@@ -1,5 +1,7 @@
 # Armadillo - high quality C++ linear algebra library
 [![status](http://joss.theoj.org/papers/4d6506e46a96659b74f48b51ef92fa93/status.svg)](http://joss.theoj.org/papers/4d6506e46a96659b74f48b51ef92fa93)
+&nbsp;
+[![number of downloads](https://img.shields.io/sourceforge/dt/arma.svg)](http://arma.sourceforge.net/download.html)
 
 * Get latest version from the [download page](http://arma.sourceforge.net/download.html)
 
@@ -34,3 +36,11 @@
 * Automatically combines several operations into one
 * Useful for prototyping directly in C++
 * Useful for conversion of research code into production environments
+
+---
+
+# Developers
+* [Conrad Sanderson](http://conradsanderson.id.au)
+* [Ryan Curtin](http://www.ratml.org/)
+
+**NOTE:** please see the [Questions](http://arma.sourceforge.net/faq.html) page before contacting the developers 
