@@ -9,7 +9,7 @@
 
 * [Bug reports and frequently asked questions](http://arma.sourceforge.net/faq.html)
 
-* [Source code repo](http://github.com/conradsnicta/armadillo-code)
+* [Source code repo](https://gitlab.com/conradsnicta/armadillo-code) (GitLab)
 
 ---
 
